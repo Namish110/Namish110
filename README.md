@@ -1,8 +1,4 @@
-<!-- SEO Keywords: Senior .NET Developer, Full Stack Developer, ASP.NET Core, React, e-Governance, Delhi, AWS, Azure, NEGD, NIC, Government Portal Developer India -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0096FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shlok+Shah;Senior+.NET+%26+Full+Stack+Developer;4%2B+Years+%7C+6+Live+Gov+Portals;.NET+Core+%7C+React+%7C+AWS+%7C+Azure" alt="Typing SVG" />
-</h1>
 
 <!-- SEO Keywords:
 Senior Software Engineer,
@@ -26,15 +22,20 @@ FinTech Developer
 </h1>
 
 <div align="center">
-  
 
-# 🚀 Shlok Shah
+<h1>🚀 Shlok Shah</h1>
 
-### Senior Software Engineer | .NET Full Stack Developer | ASP.NET Core | React.js | Next.js | AWS | Azure
+<h3>
+Senior Software Engineer | .NET Full Stack Developer | ASP.NET Core | React.js | Next.js | AWS | Azure
+</h3>
 
+<p>
 Building Enterprise Applications • Government Portals • FinTech Platforms • HRMS Solutions • Hospital Management Systems
+</p>
 
+<p>
 📍 Delhi, India | 🌎 Open to Remote & Relocation Opportunities
+</p>
 
 </div>
 
