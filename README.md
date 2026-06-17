@@ -254,7 +254,7 @@ Contributed to India's **Indian Renewable Energy Development Agency** finance an
 
 <p align="center">
   <a href="https://shlokshah.dev">
-    <img src="https://img.shields.io/badge/Portfolio-shlokshah.dev-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/shlok-fullstack.vercel.app-blue?style=for-the-badge" />
   </a>
 
   <a href="https://linkedin.com/in/shlokshahdeveloper">
