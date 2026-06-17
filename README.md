@@ -253,7 +253,7 @@ Contributed to India's **Indian Renewable Energy Development Agency** finance an
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://shlok-fullstack.dev">
+  <a href="https://shlok-fullstack.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Shlok.Dev-blue?style=for-the-badge" />
   </a>
 
