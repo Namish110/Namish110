@@ -5,10 +5,20 @@
 </h1>
 
 <p align="center">
-  <b>Senior Software Developer · .NET & Full Stack · e-Governance · Cloud · Cyber Security</b><br/>
-  <i>Delivering enterprise-grade web applications for government & private sector since 2021</i>
-</p>
+  <h1 align="center">🚀 Shlok Shah</h1>
 
+  <h3 align="center">
+    Senior Software Engineer | .NET Full Stack Developer | ASP.NET Core | React.js | AWS | Azure
+  </h3>
+
+  <p align="center">
+    Building scalable enterprise applications, government portals, hospital management systems, HRMS solutions, and cloud-native platforms with modern Microsoft technologies.
+  </p>
+
+  <p align="center">
+    <b>5+ Years Experience</b> • <b>Full Stack Development</b> • <b>Cloud Solutions</b> • <b>Cyber Security</b>
+  </p>
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/shlokshahdeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-shlokshahdeveloper-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
