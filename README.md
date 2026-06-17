@@ -4,21 +4,40 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0096FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shlok+Shah;Senior+.NET+%26+Full+Stack+Developer;4%2B+Years+%7C+6+Live+Gov+Portals;.NET+Core+%7C+React+%7C+AWS+%7C+Azure" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <h1 align="center">🚀 Shlok Shah</h1>
+<!-- SEO Keywords:
+Senior Software Engineer,
+.NET Full Stack Developer,
+ASP.NET Core Developer,
+C# Developer,
+React Developer,
+Next.js Developer,
+AWS Engineer,
+Azure Engineer,
+Microservices Developer,
+SQL Server Developer,
+Government Projects,
+HRMS Developer,
+Hospital Management System,
+FinTech Developer
+-->
 
-  <h3 align="center">
-    Senior Software Engineer | .NET Full Stack Developer | ASP.NET Core | React.js | AWS | Azure
-  </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0096FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shlok+Shah;Senior+Software+Engineer;5%2B+Years+of+Experience;ASP.NET+Core+%7C+React.js+%7C+Next.js;AWS+%7C+Azure+%7C+Microservices;Building+Enterprise+%26+Government+Solutions" />
+</h1>
 
-  <p align="center">
-    Building scalable enterprise applications, government portals, hospital management systems, HRMS solutions, and cloud-native platforms with modern Microsoft technologies.
-  </p>
+<div align="center">
 
-  <p align="center">
-    <b>5+ Years Experience</b> • <b>Full Stack Development</b> • <b>Cloud Solutions</b> • <b>Cyber Security</b>
-  </p>
-</p>
+# 🚀 Shlok Shah
+
+### Senior Software Engineer | .NET Full Stack Developer | ASP.NET Core | React.js | Next.js | AWS | Azure
+
+Building Enterprise Applications • Government Portals • FinTech Platforms • HRMS Solutions • Hospital Management Systems
+
+📍 Delhi, India | 🌎 Open to Remote & Relocation Opportunities
+
+</div>
+
+
 <p align="center">
   <a href="https://linkedin.com/in/shlokshahdeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-shlokshahdeveloper-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,14 +54,40 @@
 
 ---
 
-## 🧑‍💻 Professional Summary
+## 💼 About Me
 
-> **Senior Software Developer** with **4+ years of experience** designing, developing, and deploying **full-stack web applications** for enterprise and government clients across India.
->
-> Delivered **6+ national e-governance portals** via **NEGD / NIC** spanning citizen services, police verification, trade licensing, and rural livelihood. Expert in **.NET Core, ASP.NET MVC, React, Node.js**, and cloud deployments on **AWS & Azure** — with a strong track record in security audits, database optimization, CI/CD pipelines, and agile delivery in high-accountability government environments.
+Senior Software Engineer with 5+ years of experience building enterprise-grade web applications, cloud-native systems, e-Governance portals, HRMS solutions, Hospital Management Systems, and FinTech platforms.
 
----
+Specialized in:
 
+✔ ASP.NET Core & .NET 8
+✔ C# & Entity Framework Core
+✔ React.js & Next.js
+✔ SQL Server & Database Optimization
+✔ REST APIs & Microservices
+✔ AWS & Microsoft Azure
+✔ Docker & Kubernetes
+✔ CI/CD & DevOps
+✔ Cyber Security & Secure Coding
+
+Successfully delivered multiple government projects through NEGD, NIC, Delhi Police, Tea Board of India, TRLM, GBA, and other public sector organizations.
+
+
+
+
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+Multi-Tenant Hospital ERP built using ASP.NET Core, Next.js, SQL Server, JWT Authentication, and Role-Based Access Control.
+
+### 👨‍💼 HRMS Portal
+Employee Management, Attendance Tracking, Payroll, Leave Management, DeskTime Integration.
+
+### 💹 BondsAdda
+Financial Bond Trading Platform integrated with BSE APIs, Razorpay Payment Gateway, and Real-Time Investment Dashboard.
+
+### 🏛️ Government e-Governance Portals
+Delivered citizen service portals, police verification systems, trade licensing platforms, and rural livelihood management systems.
 ## 🛠️ Technical Skills
 
 ### Backend
@@ -185,7 +230,7 @@ Contributed to India's **Indian Renewable Energy Development Agency** finance an
 
 | 📌 | Detail |
 |----|--------|
-| 💼 **Experience** | 4+ Years in Full Stack & .NET Development |
+| 💼 **Experience** | 5+ Years in Full Stack & .NET Development |
 | 🏛️ **Gov Projects** | 6 Live National Portals (NEGD/NIC) |
 | ☁️ **Cloud** | AWS & Azure — Production Deployments |
 | 🔐 **Security** | Certified Cyber Security, Pen Testing, CERT Compliance |
@@ -205,16 +250,21 @@ Contributed to India's **Indian Renewable Energy Development Agency** finance an
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/shlokshahdeveloper">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://shlokshah.dev">
+    <img src="https://img.shields.io/badge/Portfolio-shlokshah.dev-blue?style=for-the-badge" />
   </a>
-  &nbsp;
+
+  <a href="https://linkedin.com/in/shlokshahdeveloper">
+    <img src="https://img.shields.io/badge/LinkedIn-shlokshahdeveloper-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
   <a href="mailto:guptanamish11@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-guptanamish11@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=100&section=footer" />
 </p>
