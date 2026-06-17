@@ -26,8 +26,7 @@ FinTech Developer
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0096FF,100:00C6FF&height=250&section=header&text=Shlok%20Shah&fontSize=50&fontColor=ffffff" />
-
+  
 
 # 🚀 Shlok Shah
 
