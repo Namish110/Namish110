@@ -208,11 +208,7 @@ Contributed to India's **Indian Renewable Energy Development Agency** finance an
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namish110&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&hide_border=true" />
 </p>
 
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Namish110&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ## 📈 Contribution Graph
 
