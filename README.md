@@ -196,32 +196,28 @@ Contributed to India's **Indian Renewable Energy Development Agency** finance an
 | **Cyber Security** — Pen Testing, Payload Creation, Network Protocol Analysis, Vulnerability Assessment | StationX | Aug – Nov 2023 | `1-1888596480` |
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Namish110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Namish110&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Namish110&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img width="48%" src="https://streak-stats.demolab.com?user=Namish110&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namish110&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namish110&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Namish110&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Namish110&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namish110&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namish110&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
